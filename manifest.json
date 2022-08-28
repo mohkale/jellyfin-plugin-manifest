@@ -1,0 +1,20 @@
+[
+    {
+        "guid": "96e4df86-207a-4d89-b015-5672d7ab30f4",
+        "name": "DotDirectory",
+        "description": "Source media cover information from FreeDesktop standard Desktop Entry files.",
+        "overview": "Source cover information from desktop entry files.",
+        "owner": "Mohsin Kaleem <mohkale@kisara.moe>",
+        "category": "Metadata",
+        "versions": [
+            {
+                "version": "1.0.0",
+                "changelog": "Initial release",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://github.com/mohkale/jellyfin-plugin-dotdirectory/releases/download/1.0.0/Jellyfin.Plugin.DotDirectory.zip",
+                "checksum": "20907b05e9f3eadcacb7289a0f742c69",
+                "timestamp": "2022-08-28 13:00:00"
+            }
+        ]
+    }
+]
